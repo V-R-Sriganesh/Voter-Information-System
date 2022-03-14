@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VoterAppModelStoreContainer" CdmEntityContainer="VoterAppEntities">
+    <EntitySetMapping Name="adminusers">
+      <EntityTypeMapping TypeName="VoterAppModel.adminuser">
+        <MappingFragment StoreEntitySet="adminuser">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="passwrd" ColumnName="passwrd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="voters">
+      <EntityTypeMapping TypeName="VoterAppModel.voter">
+        <MappingFragment StoreEntitySet="voter">
+          <ScalarProperty Name="voterid" ColumnName="voterid" />
+          <ScalarProperty Name="votername" ColumnName="votername" />
+          <ScalarProperty Name="vaddress" ColumnName="vaddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

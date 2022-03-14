@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bc76d26-1275-47d1-aa71-8c56c14b00fc": {
+      "ProjectGuid": "4bc76d26-1275-47d1-aa71-8c56c14b00fc",
+      "DisplayName": "VoterDAL",
+      "ColorIndex": 0
+    },
+    "ada4421d-e70e-4711-9103-4b9326fdf8bd": {
+      "ProjectGuid": "ada4421d-e70e-4711-9103-4b9326fdf8bd",
+      "DisplayName": "VoterAppMVC",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,12 @@
+E:\VoterApplication\VoterApplicationSol\VoterDAL\bin\Debug\VoterDAL.dll.config
+E:\VoterApplication\VoterApplicationSol\VoterDAL\bin\Debug\VoterDAL.dll
+E:\VoterApplication\VoterApplicationSol\VoterDAL\bin\Debug\VoterDAL.pdb
+E:\VoterApplication\VoterApplicationSol\VoterDAL\bin\Debug\EntityFramework.dll
+E:\VoterApplication\VoterApplicationSol\VoterDAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\VoterApplication\VoterApplicationSol\VoterDAL\bin\Debug\EntityFramework.xml
+E:\VoterApplication\VoterApplicationSol\VoterDAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\VoterApplication\VoterApplicationSol\VoterDAL\obj\Debug\VoterDAL.csproj.AssemblyReference.cache
+E:\VoterApplication\VoterApplicationSol\VoterDAL\obj\Debug\VoterDAL.csproj.CoreCompileInputs.cache
+E:\VoterApplication\VoterApplicationSol\VoterDAL\obj\Debug\VoterDAL.csproj.CopyComplete
+E:\VoterApplication\VoterApplicationSol\VoterDAL\obj\Debug\VoterDAL.dll
+E:\VoterApplication\VoterApplicationSol\VoterDAL\obj\Debug\VoterDAL.pdb
